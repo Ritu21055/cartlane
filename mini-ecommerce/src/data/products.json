@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 1999,
+    "category": "Electronics",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "description": "Premium wireless headphones with immersive sound quality and comfortable ear cushions."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 2499,
+    "category": "Electronics",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+    "description": "Modern smartwatch with fitness tracking and smart notifications."
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "price": 1799,
+    "category": "Fashion",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+    "description": "Lightweight running shoes designed for everyday comfort."
+  },
+  {
+    "id": 4,
+    "name": "Classic Backpack",
+    "price": 1299,
+    "category": "Accessories",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+    "description": "Spacious everyday backpack with multiple storage compartments."
+  },
+  {
+    "id": 5,
+    "name": "Modern Chair",
+    "price": 3499,
+    "category": "Home",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?w=500",
+    "description": "Minimal modern chair suitable for home and office spaces."
+  },
+  {
+    "id": 6,
+    "name": "Sunglasses",
+    "price": 899,
+    "category": "Accessories",
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500",
+    "description": "Stylish sunglasses with a timeless frame design."
+  },
+  {
+    "id": 7,
+    "name": "Casual T-Shirt",
+    "price": 699,
+    "category": "Fashion",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
+    "description": "Comfortable casual cotton t-shirt for everyday wear."
+  },
+  {
+    "id": 8,
+    "name": "Desk Lamp",
+    "price": 1199,
+    "category": "Home",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500",
+    "description": "Elegant desk lamp for your workspace and bedroom."
+  },
+  {
+    "id": 9,
+    "name": "Bluetooth Speaker",
+    "price": 1599,
+    "category": "Electronics",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500",
+    "description": "Portable Bluetooth speaker with powerful audio."
+  },
+  {
+    "id": 10,
+    "name": "Leather Wallet",
+    "price": 799,
+    "category": "Accessories",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500",
+    "description": "Compact wallet with a stylish and practical design."
+  }
+]
